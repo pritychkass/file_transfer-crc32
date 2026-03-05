@@ -7,7 +7,7 @@
  * содержимое файла. CRC32 файла выводится на экран до отправки.
  *
  * @author pritychkass
- * @date 2025
+ * @date 2026
  */
 
 #include <stdio.h>
