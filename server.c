@@ -7,7 +7,7 @@
  * и выводит CRC32 полученных данных.
  *
  * @author pritychkass
- * @date 2025
+ * @date 2026
  */
 
 #include <stdio.h>
